@@ -1,5 +1,7 @@
-### OLÁ PESSOAS
-## Esse é o meu GitHub, tem coisas nele
+## OLÁ PESSOAS
+### Esse é o meu GitHub, tem coisas nele
+
+![DE4THB0RN's Stats](https://github-readme-stats.vercel.app/api?username=DE4THB0RN&theme=gotham&show_icons=true&hide_border=true&count_private=true)
 
 <!--
 **DE4THB0RN/DE4THB0RN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
