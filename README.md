@@ -4,9 +4,7 @@
 ![DE4THB0RN's Stats](https://github-readme-stats.vercel.app/api?username=DE4THB0RN&theme=gotham&show_icons=true&hide_border=true&count_private=true)
 <img src="gifs/dracovish-pokemon.gif" align="right" width="200">
 ![DE4THB0RN's Streak](https://github-readme-streak-stats.herokuapp.com/?user=DE4THB0RN&theme=gotham&hide_border=true)
-<img src="gifs/susanoo-rock.gif" align="right" width= "130">
 ![DE4THB0RN's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DE4THB0RN&theme=gotham&show_icons=true&hide_border=true&layout=compact)
-<img src="gifs/terumi.gif" align="right" width="130">
 <!--
 **DE4THB0RN/DE4THB0RN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
